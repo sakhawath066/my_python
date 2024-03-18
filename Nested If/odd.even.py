@@ -1,6 +1,6 @@
-num = 33
-if num > 0:
-  if num % 2 == 0:
+x = int(input('enter the number: '))
+if x > 0:
+  if x % 2 == 0:
     print("The number is positive and even.")
   else:
     print("The number is positive but odd.")
