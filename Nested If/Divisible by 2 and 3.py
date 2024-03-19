@@ -9,4 +9,4 @@ if x%2==0:
     else:
         print('it is divisible by 2 but not 3')
 else:
-    print('it is not divisible by any mumber')
+    print('it is not divisible by any number')
