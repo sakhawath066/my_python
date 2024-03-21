@@ -1,4 +1,4 @@
-f=input('Enter first name: ')
-l=input('Enter last name: ')
+first_name = input('Enter first name: ')
+last_name = input('Enter last name: ')
 
-print (l,f)
+print(last_name, first_name)
