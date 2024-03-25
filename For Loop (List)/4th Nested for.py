@@ -1,4 +1,4 @@
-fruits = ['banana', 'orange', 'apple', 'melon', 'mango']
+fruits = ['banana', 'orange', 'apple', 'mango']
 name = ['sakhawath', 'tazeem', 'tamzeed', 'tawwab']
 
 for f in fruits:

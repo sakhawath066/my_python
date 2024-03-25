@@ -1,7 +1,7 @@
-s = 0
+d = 0
 n = int(input("Enter number "))
 
 for i in range(1, n + 1, 1):
-    s += i
-print("Sum is: ", s)
+    d += i
+print("Sum is: ", d)
 
