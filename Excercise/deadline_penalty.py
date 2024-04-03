@@ -12,5 +12,9 @@ for i in task:
 b = list(b)
 b.sort()
 
-Dis = tuple((b[-1], a[0], b[-2], a[1], b[-3], a[2]),)
-print(Dis)
+Dis1 = tuple((b[-1], a[0],))
+Dis2 = tuple((b[-2], a[1],))
+Dis3 = tuple((b[-3], a[2],))
+
+print(Dis1, Dis2, Dis3)
+
